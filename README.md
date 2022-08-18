@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (TBC)
 - 📫 How to reach me https://codeRunner.uk
 
-- 🌱 My current projects are set to "private" but, if you really have an interest in them, just reach out and we'll connect up.
+- 🌱 My current projects are set to "private" but check out my website for updates and, if you really have an interest in them, just reach out and we'll connect up.
 
 <!---
 coderunneruk/coderunneruk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
